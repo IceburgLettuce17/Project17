@@ -1,0 +1,8 @@
+{
+    "name": "Project17.Stubs",
+    "references": [
+        "Project17.Custom"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
