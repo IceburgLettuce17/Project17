@@ -23,3 +23,6 @@ Almost nothing you import will work out of the box, even with this package. You 
 # Shims list
 - I've only done VisualElement and MouseManipulator from UIElements for now.
 - In case you don't know what a shim is, it's basically backporting newer APIs using older ones
+
+# Implementations list
+- DrawStates and SecondarySpriteTexture from UnityEngine
