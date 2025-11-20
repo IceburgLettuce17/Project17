@@ -4,11 +4,13 @@ using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.Bindings;
 using UnityEngine.Scripting;
+//using Project17;
 
 // Based on decompiled ProfilerMarker
 // Note: stubbed, does not implement Internal_ methods
 namespace Unity.Profiling
 {
+	//[Utils.StubbedClass("ProfilerMarker", "Profiling is internal, this is just for TMP")]
 	public struct ProfilerMarker
 	{
 		internal readonly IntPtr m_Ptr;

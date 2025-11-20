@@ -1,6 +1,9 @@
-﻿// Based on decompiled MarkerFlags
+﻿//using Project17;
+
+// Based on decompiled MarkerFlags
 namespace Unity.Profiling
 {
+	//[Utils.StubbedClass("MarkerFlags", "Profiling is internal, plus this class isn't even needed for Profiling")]
 	internal enum MarkerFlags
 	{
 		Default = 0,
